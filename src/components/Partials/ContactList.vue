@@ -4,7 +4,7 @@
             <div class="card-contact">
                 <div class="card-contact-container">
                     <h4><b><span class="icon-contact"><i class="fa-solid fa-phone"></i></span></b></h4>
-                    <h4><b>Telefono</b></h4>
+                    <h4><b>Teléfono</b></h4>
                     <p><b><a href="tel:+58184581966">8184581966</a></b></p>
                 </div>
             </div>

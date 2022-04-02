@@ -20,7 +20,7 @@
                 <div class="card-technology-container">
                     <h3><b><span class="icon-technology"><i class="fa-brands fa-html5"></i></span></b></h3>
                     <h3><b>HTML5</b></h3>
-                    <p>Ya despues de hacer el diseño UI/UX, se realiza la maquetacion de la pagina web formando los encabezados, parrafos, imagenes, hipervinculos para otras paginas, tablas, entre otras formas.</p>
+                    <p>Ya después de hacer el diseño UI/UX, se realiza la maquetación de la pagina web formando los encabezados, párrafos, imágenes, hipervínculos para otras paginas, tablas, entre otras formas.</p>
                 </div>
             </div>
         </div>
@@ -29,7 +29,7 @@
                 <div class="card-technology-container">
                     <h3><b><span class="icon-technology"><i class="fa-brands fa-css3-alt"></i></span></b></h3>
                     <h3><b>CSS</b></h3>
-                    <p>Luego de la maquetacion, se realiza el diseño de la pagina, poniendo colores, fondos, espacios internos y externos, lineas entre otras formas. Tambien para simplificar se puede usar frameworks.</p>
+                    <p>Luego de la maquetación, se realiza el diseño de la pagina, poniendo colores, fondos, espacios internos y externos, lineas entre otras formas. También para simplificar se puede usar Frameworks.</p>
                     <p>Framework</p>
                     <ul>
                         <li>Bootstrap</li>
@@ -42,7 +42,7 @@
                 <div class="card-technology-container">
                     <h3><b><span class="icon-technology"><i class="fa-brands fa-js"></i></span></b></h3>
                     <h3><b>Javascript</b></h3>
-                    <p>Despues se realiza el funcionamiento de la pagina web mediante Javascript, se puede usar el puro codigo que se le llama Vanilla Javascript, librerias como JQuery y para darle forma, se utiliza un framework.</p>
+                    <p>Después se realiza el funcionamiento de la pagina web mediante Javascript, se puede usar el puro código que se le llama Vanilla Javascript, librerías como JQuery y para darle forma, se utiliza un Framework.</p>
                     <p>Framework</p>
                     <ul>
                         <li>VueJS</li>
@@ -55,7 +55,7 @@
                 <div class="card-technology-container">
                     <h3><b><span class="icon-technology"><i class="fa-brands fa-php"></i></span></b></h3>
                     <h3><b>PHP</b></h3>
-                    <p>Si la pagina es dinamica, se utiliza para un lenguaje de programación en Backend para enviar un correo electronico y/o guardar datos y esta se conecta a una base de datos. Para motivos de fortalezer la pagina, se utiliza frameworks para buenas practicas.</p>
+                    <p>Si la pagina es dinámica, se utiliza para un lenguaje de programación en Backend para enviar un correo electrónico y/o guardar datos y esta se conecta a una base de datos. Para motivos de fortalecer la pagina, se utiliza Frameworks para buenas practicas.</p>
                     <p>Framework</p>
                     <ul>
                         <li>Laravel</li>
@@ -68,7 +68,7 @@
                 <div class="card-technology-container">
                     <h3><b><span class="icon-technology"><i class="fa-solid fa-database"></i></span></b></h3>
                     <h3><b>MYSQL</b></h3>
-                    <p>Ahora se debe de tener de administrar una base de datos para conectarse a la pagina mediante codigo backend.</p>
+                    <p>Ahora se debe de tener de administrar una base de datos para conectarse a la pagina mediante código backend.</p>
                 </div>
             </div>
         </div>
