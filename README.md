@@ -4,8 +4,6 @@ Aquí se encontrara las prácticas referentes a la semana final de la misión Fr
 
 Prácticas resueltas por: Gerardo Rafael Cabrera Herrera
 
-[Pagina de la practica subida a la nube Azure](https://nice-island-0e23de110.1.azurestaticapps.net/)
-
 Redes:
 * GitHub: [GerardoCabreraH](https://github.com/GerardoCabreraH)
 
